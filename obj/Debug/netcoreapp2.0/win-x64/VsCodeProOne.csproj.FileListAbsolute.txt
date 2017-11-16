@@ -11,3 +11,16 @@ D:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.Assem
 D:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.AssemblyInfo.cs
 D:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.dll
 D:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.pdb
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.csproj.CoreCompileInputs.cache
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.AssemblyInfoInputs.cache
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.AssemblyInfo.cs
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.dll
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\obj\Debug\netcoreapp2.0\win-x64\VsCodeProOne.pdb
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.exe
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.deps.json
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.runtimeconfig.json
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.runtimeconfig.dev.json
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.dll
+D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore-master\bin\Debug\netcoreapp2.0\win-x64\VsCodeProOne.pdb
