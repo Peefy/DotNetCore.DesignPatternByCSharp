@@ -1,0 +1,10 @@
+d:\C#\DotNetCore\VsCodeProOne\bin\Debug\netcoreapp2.0\VsCodeProOne.deps.json
+d:\C#\DotNetCore\VsCodeProOne\bin\Debug\netcoreapp2.0\VsCodeProOne.runtimeconfig.json
+d:\C#\DotNetCore\VsCodeProOne\bin\Debug\netcoreapp2.0\VsCodeProOne.runtimeconfig.dev.json
+d:\C#\DotNetCore\VsCodeProOne\bin\Debug\netcoreapp2.0\VsCodeProOne.dll
+d:\C#\DotNetCore\VsCodeProOne\bin\Debug\netcoreapp2.0\VsCodeProOne.pdb
+d:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\VsCodeProOne.csproj.CoreCompileInputs.cache
+d:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\VsCodeProOne.AssemblyInfoInputs.cache
+d:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\VsCodeProOne.AssemblyInfo.cs
+d:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\VsCodeProOne.dll
+d:\C#\DotNetCore\VsCodeProOne\obj\Debug\netcoreapp2.0\VsCodeProOne.pdb
