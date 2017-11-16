@@ -3,11 +3,11 @@ using System;
 
 namespace VsCodeProOne.Patterns.AbstractFactoryPattern
 {
-    public class Red : IColor
+    public class Green : IColor
     {
         public void Fill()
         {
-            Console.WriteLine("Inside::red::fill() method");
+            Console.WriteLine("Inside::green::fill() method");
         }
     }
 

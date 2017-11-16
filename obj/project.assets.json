@@ -5716,11 +5716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\VsCodeProOne.csproj",
+      "projectUniqueName": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\VsCodeProOne.csproj",
       "projectName": "VsCodeProOne",
-      "projectPath": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\VsCodeProOne.csproj",
+      "projectPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\VsCodeProOne.csproj",
       "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
-      "outputPath": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\obj\\",
+      "outputPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

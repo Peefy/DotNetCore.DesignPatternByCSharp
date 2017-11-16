@@ -11,6 +11,9 @@ using VsCodeProOne.Patterns.SingletonPattern;       //单例模式
 using VsCodeProOne.Patterns.BuilderPattern;         //建造者模式
 using VsCodeProOne.Patterns.PrototypePattern;       //原型模式
 //2.结构型模式
+using VsCodeProOne.Patterns.AdapterPattern;         //适配器模式
+using VsCodeProOne.Patterns.BridgePattern;          //桥接模式
+//过滤器模式
 
 namespace VsCodeProOne
 {
@@ -33,7 +36,11 @@ namespace VsCodeProOne
             #endregion
 
             #region 2.结构型模式
-
+            //适配器模式
+            AdapterPatternDemo.Test();
+            //桥接模式
+            BridgePatternDemo.Test();
+            //过滤器模式
             #endregion
             Console.ReadLine();
             
