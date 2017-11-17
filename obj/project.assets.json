@@ -1375,7 +1375,7 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
@@ -3588,29 +3588,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/dugu/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Aorus\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Developer/vs_code_pro/dotnetcore/DesignPatternByCSharpDotNetCore/VsCodeProOne.csproj",
+      "projectUniqueName": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
       "projectName": "VsCodeProOne",
-      "projectPath": "/Developer/vs_code_pro/dotnetcore/DesignPatternByCSharpDotNetCore/VsCodeProOne.csproj",
-      "packagesPath": "/Users/dugu/.nuget/packages/",
-      "outputPath": "/Developer/vs_code_pro/dotnetcore/DesignPatternByCSharpDotNetCore/obj/",
+      "projectPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
+      "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/dugu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Aorus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "/Users/dugu/.dotnet/NuGetFallbackFolder": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
