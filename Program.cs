@@ -15,6 +15,7 @@ using VsCodeProOne.Patterns.AdapterPattern;         //适配器模式
 using VsCodeProOne.Patterns.BridgePattern;          //桥接模式
 using VsCodeProOne.Patterns.FilterPattern;          //过滤器模式
 using VsCodeProOne.Patterns.CompositePattern;       //组合模式
+using VsCodeProOne.Patterns.DecoratorPattern;       //装饰器模式
 
 namespace VsCodeProOne
 {
@@ -45,6 +46,8 @@ namespace VsCodeProOne
             FilterPatternDemo.Test();
             //组合模式
             CompositePattern.Test();
+            //装饰器模式
+            DecoratorPatternDemo.Test();
             #endregion
             Console.ReadLine();
             
