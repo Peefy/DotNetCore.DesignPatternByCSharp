@@ -1,3 +1,6 @@
+
+using System;
+
 namespace VsCodeProOne.Patterns.AdapterPattern
 {
     ///<summary>
@@ -19,11 +22,13 @@ namespace VsCodeProOne.Patterns.AdapterPattern
     {
         public static void Test()
         {
+            Console.WriteLine("适配器模式测试...");
             var audioPlayer = new AudioPlayer();
             audioPlayer.Play("mp3","beyond the horizon.mp3");
             audioPlayer.Play("mp4","alone.mp4");
             audioPlayer.Play("vlc","far far away.vlc");
             audioPlayer.Play("avi","mind me.avi");
+            Console.WriteLine("");
         }
     }
 

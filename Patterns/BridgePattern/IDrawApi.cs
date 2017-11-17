@@ -1,3 +1,6 @@
+
+using System;
+
 namespace VsCodeProOne.Patterns.BridgePattern
 {
     public interface IDrawApi
@@ -9,10 +12,12 @@ namespace VsCodeProOne.Patterns.BridgePattern
     {
         public static void Test()
         {
+            Console.WriteLine("桥接模式测试");
             var redCircle = new Circle(100,101,10,new RedCircle());
             var greenCircle = new Circle(100,101,10,new GreenCircle());
             redCircle.Draw();
             greenCircle.Draw();
+            Console.WriteLine("");
         }
     }
 

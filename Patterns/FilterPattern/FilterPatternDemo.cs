@@ -7,6 +7,7 @@ namespace VsCodeProOne.Patterns.FilterPattern
     {
         public static void Test()
         {
+            Console.WriteLine("滤波器模式测试...");
             var persons = new List<Person>();
             persons.Add(new Person("Rebort","Male","Single"));
             persons.Add(new Person("John","Male","Married"));
@@ -29,7 +30,7 @@ namespace VsCodeProOne.Patterns.FilterPattern
             PrintPersons(singleMale.MeetCriteria(persons));
             Console.WriteLine("Single Or Females");
             PrintPersons(singleOrFemale.MeetCriteria(persons));
-
+            Console.WriteLine("");
         }
 
         public static void PrintPersons(List<Person> persons)

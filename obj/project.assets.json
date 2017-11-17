@@ -3594,11 +3594,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
+      "projectUniqueName": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
       "projectName": "VsCodeProOne",
-      "projectPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
+      "projectPath": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\VsCodeProOne.csproj",
       "packagesPath": "C:\\Users\\Aorus\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\obj\\",
+      "outputPath": "d:\\C#\\DotNetCore\\DesignPatternByCSharpDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

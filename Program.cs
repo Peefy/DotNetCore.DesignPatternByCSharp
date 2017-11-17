@@ -13,7 +13,8 @@ using VsCodeProOne.Patterns.PrototypePattern;       //原型模式
 //2.结构型模式
 using VsCodeProOne.Patterns.AdapterPattern;         //适配器模式
 using VsCodeProOne.Patterns.BridgePattern;          //桥接模式
-using VsCodeProOne.Patterns.FilterPattern; //过滤器模式
+using VsCodeProOne.Patterns.FilterPattern;          //过滤器模式
+using VsCodeProOne.Patterns.CompositePattern;       //组合模式
 
 namespace VsCodeProOne
 {
@@ -37,11 +38,13 @@ namespace VsCodeProOne
 
             #region 2.结构型模式
             //适配器模式
-            AdapterPatternDemo.Test();
+            AdapterPatternDemo.Test();        
             //桥接模式
             BridgePatternDemo.Test();
             //过滤器模式
             FilterPatternDemo.Test();
+            //组合模式
+            CompositePattern.Test();
             #endregion
             Console.ReadLine();
             
