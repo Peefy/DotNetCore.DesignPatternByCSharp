@@ -8,10 +8,10 @@ namespace VsCodeProOne.Patterns.FlyWeightPattern
 
         static string[] colors = { "red", "green", "blue", "white" };
 
-        static string RandomColor => colors[(int)(new Random().Next() * colors.Length)];
+        static string RandomColor => colors[(int)(new Random().Next(0,colors.Length))];
 
-        static int RandomX => (int)(new Random().Next() * 100);
-        static int RandomY => (int)(new Random().Next() * 100);
+        static int RandomX => (int)(new Random().Next(0,100));
+        static int RandomY => (int)(new Random().Next(0,100));
 
         public static void Test()
         {
