@@ -3,14 +3,14 @@ using System;
 
 namespace VsCodeProOne.Patterns.FactoryPattern
 {
-    internal class Rectangle : IShape
+    public class Rectangle : IShape
     {
         public Rectangle()
         {
             Console.WriteLine($"{nameof(Rectangle) } construtor");
         }
 
-        public void Draw()
+        public virtual void Draw()
         {
             Console.WriteLine($"{nameof(Rectangle) } call draw");
         }

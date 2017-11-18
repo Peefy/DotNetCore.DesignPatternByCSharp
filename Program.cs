@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Text;
 using System.IO;
+using System.Net;
+using System.Net.Sockets;
 using System.Collections.Generic;
+using System.Threading;
 using System.Threading.Tasks;
 
 using VsCodeProOne.Patterns;
@@ -16,6 +20,8 @@ using VsCodeProOne.Patterns.BridgePattern;          //桥接模式
 using VsCodeProOne.Patterns.FilterPattern;          //过滤器模式
 using VsCodeProOne.Patterns.CompositePattern;       //组合模式
 using VsCodeProOne.Patterns.DecoratorPattern;       //装饰器模式
+using VsCodeProOne.Patterns.FacadePattern;          //外观模式
+using VsCodeProOne.Patterns.FlyWeightPattern;
 
 namespace VsCodeProOne
 {
@@ -48,7 +54,26 @@ namespace VsCodeProOne
             CompositePattern.Test();
             //装饰器模式
             DecoratorPatternDemo.Test();
+            //外观模式
+            FacadePatternDemo.Test();
+            //享元模式
+            //FlyWeightPatternDemo.Test();
             #endregion
+
+            IPEndPoint udpPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 5500);
+            UdpClient udpClient = new UdpClient(udpPoint);
+            IPEndPoint senderPoint = new IPEndPoint(IPAddress.Any, 0);
+            Task.Run(() =>
+            {
+                while(true)
+                {
+                    var result = udpClient.Receive(ref senderPoint);
+                    var str = Encoding.Default.GetString(result);
+                    Console.WriteLine(str);
+                    Thread.Sleep(20);
+                }
+            });
+
             Console.ReadLine();
             
         }
