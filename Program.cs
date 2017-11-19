@@ -23,6 +23,8 @@ using VsCodeProOne.Patterns.DecoratorPattern;       //装饰器模式
 using VsCodeProOne.Patterns.FacadePattern;          //外观模式
 using VsCodeProOne.Patterns.FlyWeightPattern;       //享元模式
 using VsCodeProOne.Patterns.ProxyPattern;           //代理模式
+using VsCodeProOne.Patterns.ChainOfResponsibilityPattern; //责任链模式
+using VsCodeProOne.Patterns.CommandPattern;         //命令模式
 
 namespace VsCodeProOne
 {
@@ -61,6 +63,10 @@ namespace VsCodeProOne
             FlyWeightPatternDemo.Test();
             //代理模式
             ProxyPatternDemo.Test();
+            //责任链模式
+            ChainPatternDemo.Test();
+            //命令模式
+            Order.Test();
             #endregion
 
             Console.ReadLine();

@@ -15,6 +15,7 @@ namespace VsCodeProOne.Patterns.FlyWeightPattern
 
         public static void Test()
         {
+            Console.WriteLine("享元模式测试...");
             for (var i = 0; i < 20; ++i)
             {
                 var circle = ShapeFactory.GetCircle(RandomColor) as RadiusCircle;
@@ -23,6 +24,7 @@ namespace VsCodeProOne.Patterns.FlyWeightPattern
                 circle.SetRadius(100);
                 circle.Draw();
             }
+            Console.WriteLine("");
         }
     }
 
