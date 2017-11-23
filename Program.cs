@@ -26,7 +26,7 @@ using VsCodeProOne.Patterns.ProxyPattern;           //代理模式
 using VsCodeProOne.Patterns.ChainOfResponsibilityPattern; //责任链模式
 using VsCodeProOne.Patterns.CommandPattern;         //命令模式
 using VsCodeProOne.Patterns.InterpreterPattern;     //解释器模式
-//迭代器模式
+using VsCodeProOne.Patterns.IteratorPattern;        //迭代器模式
 
 namespace VsCodeProOne
 {
@@ -72,6 +72,7 @@ namespace VsCodeProOne
             //解释器模式
             InterpreterPatternDemo.Test();
             //迭代器模式
+            IteratorPatternDemo.Test();
             #endregion
 
             Console.ReadLine();
