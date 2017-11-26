@@ -30,6 +30,7 @@ using VsCodeProOne.Patterns.InterpreterPattern;     //解释器模式
 using VsCodeProOne.Patterns.IteratorPattern;        //迭代器模式
 using VsCodeProOne.Patterns.MediatorPattern;        //中介者模式
 using VsCodeProOne.Patterns.MementoPattern;         //备忘录模式
+using VsCodeProOne.Patterns.ObserverPattern;        //观察者模式
 
 namespace VsCodeProOne
 {
@@ -83,6 +84,8 @@ namespace VsCodeProOne
             MediatorPatternDemo.Run();
             //备忘录模式
             MementoPatternDemo.Run();
+            //观察者模式
+            ObserverPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
