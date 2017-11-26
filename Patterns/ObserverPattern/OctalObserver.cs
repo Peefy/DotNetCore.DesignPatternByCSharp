@@ -14,7 +14,7 @@ namespace VsCodeProOne.Patterns.ObserverPattern
         public override void Update()
         {
             Console.WriteLine("Octal String: " + 
-                _subject.State.ToString("O3"));
+                _subject.State.ToString());
         }
     }
 

@@ -14,7 +14,7 @@ namespace VsCodeProOne.Patterns.ObserverPattern
         public override void Update()
         {
             Console.WriteLine("Binary String: " + 
-                _subject.State.ToString("B4"));
+                _subject.State.ToString());
         }
     }
 
