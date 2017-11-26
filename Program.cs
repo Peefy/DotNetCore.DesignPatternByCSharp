@@ -23,10 +23,12 @@ using VsCodeProOne.Patterns.DecoratorPattern;       //装饰器模式
 using VsCodeProOne.Patterns.FacadePattern;          //外观模式
 using VsCodeProOne.Patterns.FlyWeightPattern;       //享元模式
 using VsCodeProOne.Patterns.ProxyPattern;           //代理模式
+//3.行为型模式
 using VsCodeProOne.Patterns.ChainOfResponsibilityPattern; //责任链模式
 using VsCodeProOne.Patterns.CommandPattern;         //命令模式
 using VsCodeProOne.Patterns.InterpreterPattern;     //解释器模式
 using VsCodeProOne.Patterns.IteratorPattern;        //迭代器模式
+using VsCodeProOne.Patterns.MediatorPattern;        //中介者模式
 
 namespace VsCodeProOne
 {
@@ -65,6 +67,9 @@ namespace VsCodeProOne
             FlyWeightPatternDemo.Test();
             //代理模式
             ProxyPatternDemo.Test();
+            #endregion
+
+            #region 3.行为型模式
             //责任链模式
             ChainPatternDemo.Test();
             //命令模式
@@ -73,6 +78,8 @@ namespace VsCodeProOne
             InterpreterPatternDemo.Test();
             //迭代器模式
             IteratorPatternDemo.Test();
+            //中介者模式
+            MediatorPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
