@@ -32,6 +32,7 @@ using VsCodeProOne.Patterns.MediatorPattern;        //中介者模式
 using VsCodeProOne.Patterns.MementoPattern;         //备忘录模式
 using VsCodeProOne.Patterns.ObserverPattern;        //观察者模式
 using VsCodeProOne.Patterns.StatePattern;           //状态模式
+using VsCodeProOne.Patterns.NullObjectPattern;      //空对象模式
 
 namespace VsCodeProOne
 {
@@ -89,6 +90,8 @@ namespace VsCodeProOne
             ObserverPatternDemo.Run();
             //状态模式
             StatePatternDemo.Run();
+            //空对象模式
+            NullObjectPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
