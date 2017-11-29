@@ -35,6 +35,8 @@ using VsCodeProOne.Patterns.StatePattern;           //状态模式
 using VsCodeProOne.Patterns.NullObjectPattern;      //空对象模式
 using VsCodeProOne.Patterns.StrategyPattern;        //策略模式
 using VsCodeProOne.Patterns.TemplatePattern;        //模板模式
+using VsCodeProOne.Patterns.VisitorPattern;         //访问者模式
+//4.J2EE模式
 
 namespace VsCodeProOne
 {
@@ -98,6 +100,11 @@ namespace VsCodeProOne
             StrategyPatternDemo.Run();
             //模板模式
             TemplatePatternDemo.Run();
+            //访问者模式
+            VisitorPatternDemo.Run();
+            #endregion
+
+            #region 4.J2EE模式
             #endregion
 
             Console.ReadLine();
