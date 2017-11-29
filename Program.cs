@@ -33,6 +33,8 @@ using VsCodeProOne.Patterns.MementoPattern;         //备忘录模式
 using VsCodeProOne.Patterns.ObserverPattern;        //观察者模式
 using VsCodeProOne.Patterns.StatePattern;           //状态模式
 using VsCodeProOne.Patterns.NullObjectPattern;      //空对象模式
+using VsCodeProOne.Patterns.StrategyPattern;        //策略模式
+using VsCodeProOne.Patterns.TemplatePattern;        //模板模式
 
 namespace VsCodeProOne
 {
@@ -92,6 +94,10 @@ namespace VsCodeProOne
             StatePatternDemo.Run();
             //空对象模式
             NullObjectPatternDemo.Run();
+            //策略模式
+            StrategyPatternDemo.Run();
+            //模板模式
+            TemplatePatternDemo.Run();
             #endregion
 
             Console.ReadLine();
