@@ -25,19 +25,20 @@ using VsCodeProOne.Patterns.FlyWeightPattern;       //享元模式
 using VsCodeProOne.Patterns.ProxyPattern;           //代理模式
 //3.行为型模式
 using VsCodeProOne.Patterns.ChainOfResponsibilityPattern; //责任链模式
-using VsCodeProOne.Patterns.CommandPattern;         //命令模式
-using VsCodeProOne.Patterns.InterpreterPattern;     //解释器模式
-using VsCodeProOne.Patterns.IteratorPattern;        //迭代器模式
-using VsCodeProOne.Patterns.MediatorPattern;        //中介者模式
-using VsCodeProOne.Patterns.MementoPattern;         //备忘录模式
-using VsCodeProOne.Patterns.ObserverPattern;        //观察者模式
-using VsCodeProOne.Patterns.StatePattern;           //状态模式
-using VsCodeProOne.Patterns.NullObjectPattern;      //空对象模式
-using VsCodeProOne.Patterns.StrategyPattern;        //策略模式
-using VsCodeProOne.Patterns.TemplatePattern;        //模板模式
-using VsCodeProOne.Patterns.VisitorPattern;         //访问者模式
+using VsCodeProOne.Patterns.CommandPattern;          //命令模式
+using VsCodeProOne.Patterns.InterpreterPattern;      //解释器模式
+using VsCodeProOne.Patterns.IteratorPattern;         //迭代器模式
+using VsCodeProOne.Patterns.MediatorPattern;         //中介者模式
+using VsCodeProOne.Patterns.MementoPattern;          //备忘录模式
+using VsCodeProOne.Patterns.ObserverPattern;         //观察者模式
+using VsCodeProOne.Patterns.StatePattern;            //状态模式
+using VsCodeProOne.Patterns.NullObjectPattern;       //空对象模式
+using VsCodeProOne.Patterns.StrategyPattern;         //策略模式
+using VsCodeProOne.Patterns.TemplatePattern;         //模板模式
+using VsCodeProOne.Patterns.VisitorPattern;          //访问者模式
 //4.J2EE模式
-using VsCodeProOne.Patterns.MVCPattern;             //MVC模式
+using VsCodeProOne.Patterns.MVCPattern;              //MVC模式
+using VsCodeProOne.Patterns.BusinessDelegatePattern; //业务代表模式
 
 namespace VsCodeProOne
 {
@@ -108,6 +109,8 @@ namespace VsCodeProOne
             #region 4.J2EE模式
             //MVC模式
             MVCPatternDemo.Run();
+            //业务代表模式
+            BusinessDelegatePatternDemo.Run();
             #endregion
 
             Console.ReadLine();
