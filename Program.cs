@@ -37,6 +37,7 @@ using VsCodeProOne.Patterns.StrategyPattern;        //策略模式
 using VsCodeProOne.Patterns.TemplatePattern;        //模板模式
 using VsCodeProOne.Patterns.VisitorPattern;         //访问者模式
 //4.J2EE模式
+using VsCodeProOne.Patterns.MVCPattern;             //MVC模式
 
 namespace VsCodeProOne
 {
@@ -105,6 +106,8 @@ namespace VsCodeProOne
             #endregion
 
             #region 4.J2EE模式
+            //MVC模式
+            MVCPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
