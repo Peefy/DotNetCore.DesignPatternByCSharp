@@ -43,8 +43,8 @@ using VsCodeProOne.Patterns.CompositeEntityPattern;  //组合实体模式
 using VsCodeProOne.Patterns.DataAccessObjectPattern; //数据访问对象模式
 using VsCodeProOne.Patterns.FrontControllerPattern;  //前端控制器模式
 using VsCodeProOne.Patterns.InterceptingFilterPattern;//拦截过滤器模式
-//服务定位器模式
-//传输对象模式
+using VsCodeProOne.Patterns.ServiceLocatorPattern;    //服务定位器模式
+using VsCodeProOne.Patterns.TransferObjectPattern;    //传输对象模式
 
 namespace VsCodeProOne
 {
@@ -126,7 +126,9 @@ namespace VsCodeProOne
             //拦截过滤器模式
             InterceptingFilterPatternDemo.Run();
             //服务定位器模式
+            ServiceLocatorPatternDemo.Run();
             //传输对象模式
+            TransferObjectPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
