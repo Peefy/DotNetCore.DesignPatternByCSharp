@@ -41,6 +41,10 @@ using VsCodeProOne.Patterns.MVCPattern;              //MVC模式
 using VsCodeProOne.Patterns.BusinessDelegatePattern; //业务代表模式
 using VsCodeProOne.Patterns.CompositeEntityPattern;  //组合实体模式
 using VsCodeProOne.Patterns.DataAccessObjectPattern; //数据访问对象模式
+using VsCodeProOne.Patterns.FrontControllerPattern;  //前端控制器模式
+//拦截过滤器模式
+//服务定位器模式
+//传输对象模式
 
 namespace VsCodeProOne
 {
@@ -117,6 +121,11 @@ namespace VsCodeProOne
             CompositeEntityPatternDemo.Run();
             //数据访问对象模式
             DataAccessObjectPatternDemo.Run();
+            //前端控制器模式
+            FrontControllerPatternDemo.Run();
+            //拦截过滤器模式
+            //服务定位器模式
+            //传输对象模式
             #endregion
 
             Console.ReadLine();
