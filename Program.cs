@@ -39,6 +39,7 @@ using VsCodeProOne.Patterns.VisitorPattern;          //访问者模式
 //4.J2EE模式
 using VsCodeProOne.Patterns.MVCPattern;              //MVC模式
 using VsCodeProOne.Patterns.BusinessDelegatePattern; //业务代表模式
+using VsCodeProOne.Patterns.CompositeEntityPattern;  //组合实体模式
 
 namespace VsCodeProOne
 {
@@ -111,6 +112,8 @@ namespace VsCodeProOne
             MVCPatternDemo.Run();
             //业务代表模式
             BusinessDelegatePatternDemo.Run();
+            //组合实体模式
+            CompositeEntityPatternDemo.Run();
             #endregion
 
             Console.ReadLine();
