@@ -1,7 +1,5 @@
 obj\release\netcoreapp2.0\osx-x64\VsCodeProOne.dll
 -o:obj\release\netcoreapp2.0\osx-x64\native\VsCodeProOne.obj
--r:C:\Users\Aorus\.nuget\packages\dugu.stadard\1.0.1\lib\netstandard1.1\DuGu.Stadard.dll
--r:C:\Users\Aorus\.nuget\packages\newtonsoft.json\10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll
 -r:C:\Users\Aorus\.nuget\packages\runtime.osx-x64.microsoft.netcore.app\2.0.0\runtimes\osx-x64\lib\netcoreapp2.0\SOS.NETCore.dll
 -r:C:\Users\Aorus\.nuget\packages\runtime.osx-x64.microsoft.netcore.app\2.0.0\runtimes\osx-x64\lib\netcoreapp2.0\System.ComponentModel.Composition.dll
 -r:C:\Users\Aorus\.nuget\packages\runtime.osx-x64.microsoft.netcore.app\2.0.0\runtimes\osx-x64\lib\netcoreapp2.0\System.Data.Common.dll
