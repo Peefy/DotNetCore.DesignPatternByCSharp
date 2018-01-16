@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "baf7f3a0881183c2d56d45c299ea1576e6f0cf8e"
+    "signature": "aa3b02487ad91401b691a51af6605db19394a219"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,6 +9,7 @@
       "VsCodeProOne/1.0.0": {
         "dependencies": {
           "DuGu.Stadard": "1.0.1",
+          "Microsoft.DotNet.ILCompiler": "1.0.0-alpha-26116-01",
           "Newtonsoft.Json": "10.0.3"
         },
         "runtime": {
@@ -40,6 +41,7 @@
           "System.Threading": "4.3.0"
         }
       },
+      "Microsoft.DotNet.ILCompiler/1.0.0-alpha-26116-01": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Newtonsoft.Json/10.0.3": {
         "dependencies": {
@@ -414,6 +416,13 @@
       "sha512": "sha512-P+MBhIM0YX+JqROuf7i306ZLJEjQYA9uUyRDE+OqwUI5sh41e2ZbPQV3LfAPh+29cmceE1pUffXsGfR4eMY3KA==",
       "path": "microsoft.csharp/4.3.0",
       "hashPath": "microsoft.csharp.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.DotNet.ILCompiler/1.0.0-alpha-26116-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D4OWnP6dus7Lh+0itV9Nh1iguedZ5BfSzS6NcH+8jvJBvsyitB86OKJAYEpwUXFka2DxPLK/aUbNqSQZlqi9Ng==",
+      "path": "microsoft.dotnet.ilcompiler/1.0.0-alpha-26116-01",
+      "hashPath": "microsoft.dotnet.ilcompiler.1.0.0-alpha-26116-01.nupkg.sha512"
     },
     "Microsoft.NETCore.Targets/1.1.0": {
       "type": "package",

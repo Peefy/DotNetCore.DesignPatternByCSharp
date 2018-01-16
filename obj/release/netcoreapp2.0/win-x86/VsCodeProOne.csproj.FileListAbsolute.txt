@@ -1,0 +1,13 @@
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\hostpolicy.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\hostfxr.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.exe
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.deps.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.runtimeconfig.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.runtimeconfig.dev.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\release\netcoreapp2.0\win-x86\VsCodeProOne.pdb
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\release\netcoreapp2.0\win-x86\VsCodeProOne.csproj.CoreCompileInputs.cache
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\release\netcoreapp2.0\win-x86\VsCodeProOne.AssemblyInfoInputs.cache
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\release\netcoreapp2.0\win-x86\VsCodeProOne.AssemblyInfo.cs
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\release\netcoreapp2.0\win-x86\VsCodeProOne.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\release\netcoreapp2.0\win-x86\VsCodeProOne.pdb

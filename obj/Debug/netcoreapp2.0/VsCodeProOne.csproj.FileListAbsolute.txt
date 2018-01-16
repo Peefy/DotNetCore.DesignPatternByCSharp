@@ -8,3 +8,13 @@ D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeP
 D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.AssemblyInfo.cs
 D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.dll
 D:\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.pdb
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\Debug\netcoreapp2.0\VsCodeProOne.deps.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\Debug\netcoreapp2.0\VsCodeProOne.runtimeconfig.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\Debug\netcoreapp2.0\VsCodeProOne.runtimeconfig.dev.json
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\Debug\netcoreapp2.0\VsCodeProOne.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\bin\Debug\netcoreapp2.0\VsCodeProOne.pdb
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.csproj.CoreCompileInputs.cache
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.AssemblyInfoInputs.cache
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.AssemblyInfo.cs
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.dll
+D:\_CodeLanguage\C#\DotNetCore\DesignPatternByCSharpDotNetCore\obj\Debug\netcoreapp2.0\VsCodeProOne.pdb
