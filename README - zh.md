@@ -6,7 +6,7 @@
 
 # 快速开始
 
-*确保您已经安装了netcore sdk*
+*确保您已经安装了netcore sdk* [.NET Core](https://dotnet.github.io/)
 
 >git clone https://github.com/Peefy/DotNetCore.DesignPatternByCSharp
 
