@@ -2,17 +2,17 @@
 
 >这些是使用*C# dotnet core*编写的设计模式
 
+[中文阅读](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp/blob/master/README%20-%20zh.md)
+
 # 快速开始
 
 *确保您已经安装了netcore sdk*
 
 >git clone https://github.com/Peefy/DotNetCore.DesignPatternByCSharp
 
-cd DotNetCore.DesignPatternByCSharp
+>cd DotNetCore.DesignPatternByCSharp
 
-dotnet run
-
-[中文阅读](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp/tree/master/README-zh.md)
+>dotnet run
 
 # 分类
 

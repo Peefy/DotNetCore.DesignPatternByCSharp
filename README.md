@@ -1,17 +1,17 @@
 # DesignPatternByCSharp
 >These are Dseign Patterns written by csharp *dotnet core*
 
+[Readme in Chinese](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp/blob/master/README%20-%20zh.md)
+
 # Quick start
 
 *Make sure that you have installed netcore sdk*
 
 >git clone https://github.com/Peefy/DotNetCore.DesignPatternByCSharp
 
-cd DotNetCore.DesignPatternByCSharp
+>cd DotNetCore.DesignPatternByCSharp
 
-dotnet run
-
-[Readme in Chinese](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp/tree/master/README-zh.md)
+>dotnet run
 
 # Classification
 
