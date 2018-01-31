@@ -2,7 +2,7 @@
 
 >这些是使用*C# dotnet core*编写的设计模式
 
-[中文阅读](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp/blob/master/README%20-%20zh.md)
+[返回项目首页](https://github.com/Peefy/DotNetCore.DesignPatternByCSharp)
 
 # 快速开始
 
@@ -24,7 +24,7 @@
 * *建造者模式*
 * *原型模式*
 
-## **
+## *结构型模式*
 
 * *适配器模式*
 * *桥接模式*
