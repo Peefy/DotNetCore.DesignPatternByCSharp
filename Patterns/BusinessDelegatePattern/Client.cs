@@ -13,8 +13,5 @@ namespace VsCodeProOne.Patterns.BusinessDelegatePattern
         {
             _businessService.DoTask();
         }
-
-
     }
-
 }

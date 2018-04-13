@@ -13,8 +13,6 @@ namespace VsCodeProOne.Patterns.NullObjectPattern
             }
             return new NullCustomer();
         }
-
-
     }
 
 }
